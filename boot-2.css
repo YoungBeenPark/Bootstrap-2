@@ -35,6 +35,9 @@
   margin-bottom: 10px;
   background-color: rgb(216, 216, 216);
 }
+.down-text p{
+  margin: 0 40px;
+}
 .down-text a{
   font-size: 13px;
   font-weight: bold;
